@@ -1,0 +1,12 @@
+{
+  "name"          : "html.comments",
+  "description"   : "HTML Comments Helper Library",
+  "homepage"      : "http://sergiokas.github.com/htmlcomments/",
+  "keywords"      : ["util", "functional", "server", "client", "browser"],
+  "author"        : "Sergio Kaszczyszyn <dev@sergiokas.com>",
+  "contributors"  : [],
+  "dependencies"  : [],
+  "repository"    : {"type": "git", "url": "git://github.com/sergiokas/html.comments.git"},
+  "main"          : "index.js",
+  "version"       : "0.1.1"
+}
